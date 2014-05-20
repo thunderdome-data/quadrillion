@@ -3,11 +3,14 @@ Quadrillion
 
 What is this?
 -------------
-An app that allows users to rank and vote on what they would do if they suddenly landed a quadrillion dollars. 
-http://data.digitalfirstmedia.com/quadrillion/ranker.html
+An app that allows users to rank and vote on what they would do if they suddenly landed a quadrillion dollars. [The story](http://www.mercurynews.com/ci_23680855/) ran in July 2013.
+http://data.digitalfirstmedia.com/quadrillion/quadrillion.html
 
 It is a reuse of the Ranker app:
 http://data.digitalfirstmedia.com/ranker/ranker.html
+
+![quadrillionaire](screenshots/quad.png)
+
 
 Credits
 ---------
